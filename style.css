@@ -1,0 +1,163 @@
+
+body{
+    margin: 0px;
+    width: 100%;
+}
+
+.nav1 {
+    background-color: rgb(56, 118, 233);
+    text-align: center;
+    height: auto;
+}
+
+.nav1div {
+    display: inline-flex;
+}
+
+.logos {
+    display: inline;
+    margin: 5px;
+}
+
+ul{
+    display: inline;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.nav1text {
+    display: inline-block;
+    align-self: center;
+    color: white;
+    width: 600px;
+}
+
+.nav1button {
+    border: none;
+    font-size: small;
+    margin: 8px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    cursor: pointer;
+}
+
+/* Style the navbar */
+.nav2div {
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+.nav2image-div {
+    display: inline-block;
+    width: 40%;
+}
+.nav2button-div {
+    display: inline-block;
+}
+.nav2button {
+    border: none;
+    background-color: whitesmoke;
+    margin: 10px 0px 10px 0px;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+}
+.nav2button:hover{
+    background-color: rgb(56, 118, 233);
+    color: white;
+}
+
+
+
+.marquee1-div{
+    background-color: white;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    width: 100%;
+}
+
+.marquee1 {
+    background-color:rgb(56, 118, 233);
+    color: white;
+    width: 80%;
+    padding: 8px; 
+}
+.news{
+    color: rgb(43, 255, 0);
+}
+.details{
+    color: blue;
+}
+
+.intro-div{
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+.blue {
+    color: royalblue;
+}
+.green {
+    color: yellowgreen;
+}
+.introtext-div {
+    width: 65%;
+    text-align: justify;
+}
+.introtext {
+    color: gray;
+    font-size: 1em;
+}
+.afterintro-div {
+    color: white;
+    background-color: rgb(44, 89, 212);
+    margin-top: 0px;
+    width: 100%;
+}
+.afterintro {
+    display: inline-block;
+    width: 20%;
+    height: 250px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.monthly {
+    color: rgb(43, 255, 0);
+    font-size: 20px;
+}
+.amount {
+    font-size: 3.5em;
+}
+
+.doing-div {
+    background-color: whitesmoke;
+    padding-top: 40px;
+}
+.doingintro {
+    margin-bottom: 30px;
+}
+.doingbox-div {
+    width: 80%;
+}
+.box1 {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.sub-box1 {
+    margin-bottom: 30px !important;
+    padding: 30px 30px;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+}
+.box-text {
+    color: rgb(44, 89, 212);
+}
+.after-doing {
+    width: 80%;
+}
+.last-images{
+    width: 80%;
+}
+
+
